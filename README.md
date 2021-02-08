@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ramlan
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ardi
 <p align="center">
 <img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/aris/A187.jpg" width="230" height="230"/>
 </p>
@@ -25,7 +25,7 @@
  
 </details>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗥𝗔𝗠𝗟𝗔𝗡 𝗜𝗗
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 ARDIGANS YT
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
