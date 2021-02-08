@@ -7,10 +7,10 @@
 
 
 <p align="center">
-<a href="#"><img title="RAMLAN ID" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ARDIGANS" src="https://img.shields.io/badge/ARDI-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARDIorange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramlan666/babybot/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramlan666?color=blue&style=flat-square"></a>
@@ -51,8 +51,8 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Ramlan666/babybot
-> cd babybot
+> git clone https://github.com/ArdiGansYT/Botwa-Patrick
+> cd Botwa-Patrick
 > bash install.sh
 > node index.js
 > Tinggal scan kode qr yeee...done
